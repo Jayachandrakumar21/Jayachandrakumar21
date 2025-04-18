@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Jayachandrakumar21/Jayachandrakumar/blob/main/git_banner.jpeg" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Jayachandrakumar21/Jayachandrakumar21/blob/main/git_banner.jpeg" alt="GitHub Banner" width="800"/>
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jayachandra kumar
